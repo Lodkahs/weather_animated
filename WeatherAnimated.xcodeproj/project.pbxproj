@@ -13,6 +13,7 @@
 		495C8D7029ED8EF0005802CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 495C8D6F29ED8EF0005802CA /* Preview Assets.xcassets */; };
 		495C8D7E29ED9106005802CA /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495C8D7D29ED9106005802CA /* Extensions.swift */; };
 		495C8D8029ED9245005802CA /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495C8D7F29ED9245005802CA /* HomeView.swift */; };
+		495C8D8229ED9E02005802CA /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495C8D8129ED9E02005802CA /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		495C8D6F29ED8EF0005802CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		495C8D7D29ED9106005802CA /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		495C8D7F29ED9245005802CA /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		495C8D8129ED9E02005802CA /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		495C8D7A29ED90A1005802CA /* Navigation */ = {
 			isa = PBXGroup;
 			children = (
+				495C8D8129ED9E02005802CA /* TabBar.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				495C8D8029ED9245005802CA /* HomeView.swift in Sources */,
 				495C8D7E29ED9106005802CA /* Extensions.swift in Sources */,
 				495C8D6929ED8EEF005802CA /* WeatherAnimatedApp.swift in Sources */,
+				495C8D8229ED9E02005802CA /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
